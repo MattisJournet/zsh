@@ -12,3 +12,5 @@ function pmmr(){
 
 
 alias pr='python manage.py runserver'
+
+alias psu='python manage.py createsuperuser'
